@@ -184,8 +184,8 @@ platforms:
   - id: "cls-depth"
     name: "财联社 深度"
     
-   - id: "fastbull-express"
+  - id: "fastbull-express"
     name: "法布财经 快讯"
     
-   - id: "fastbull-news"
+  - id: "fastbull-news"
     name: "法布财经 头条"
